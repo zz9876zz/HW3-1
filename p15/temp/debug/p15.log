@@ -1,0 +1,4 @@
+﻿E:\tool\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+E:\tool\vs2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.cpp
+  p15.vcxproj -> C:\Users\霆淞\Downloads\hw3-1new-master\p15\p15\p15\..\..\temp\debug\p15.exe
